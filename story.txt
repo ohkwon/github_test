@@ -1,0 +1,6 @@
+This is a short story.
+This is for an example of git.
+It's a little confusing.
+Here is the first addition.
+And here is the second change to the story.
+And here is the last change.
